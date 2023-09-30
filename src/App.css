@@ -1,0 +1,56 @@
+#root {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#pass{
+  width: 400px;
+
+  height: 35px;
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+}
+button{
+  margin-left: 10px;
+
+
+
+}
+.box2{
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+  margin-top: 35px;
+  padding: 10px;
+
+  display: flex;
+
+
+  border: 1px solid wheat;
+  border-radius: 5px;
+
+
+
+   
+}
+
+#char{
+  margin-left: 25px;
+  
+}
+
+#num{
+  margin-left: 30px;
+  
+}
+
+
+
+
+
+
